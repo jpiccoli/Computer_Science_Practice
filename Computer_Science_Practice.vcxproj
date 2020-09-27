@@ -152,7 +152,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="chessboard_squares.cpp" />
-    <ClCompile Include="countng_sort.cpp" />
+    <ClCompile Include="counting_sort.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="radix_sort.cpp" />
   </ItemGroup>

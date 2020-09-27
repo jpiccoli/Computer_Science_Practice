@@ -26,13 +26,13 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="countng_sort.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="radix_sort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="chessboard_squares.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="counting_sort.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
